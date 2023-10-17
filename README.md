@@ -16,4 +16,4 @@ Type 'make' in terminal.
 - TE: max work time for elf in miliseconds.  0<=TE<=1000.
 - TR: max holiday time for reideer in miliseconds 0<=RE<=1000
 
-Every parameter is whole non-negative number.
+Every parameter is a whole non-negative number.
